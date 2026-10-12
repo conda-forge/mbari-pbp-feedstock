@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.8.74"
+  version: "1.9.0"
 
 package:
   name: mbari-pbp
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/m/mbari-pbp/mbari_pbp-${{ version }}.tar.gz
-  sha256: 856bdccf50f2aa5ffe747b5f8b5cf54f4b806a53eb6c6324d88f64c87793c597
+  sha256: 764963258a7c80a22f5c7c71181e4150e1e971b67be2b503d84ee3110dc3372a
 
 build:
   number: 0
